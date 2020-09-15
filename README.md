@@ -22,6 +22,15 @@ The following **additional** features are implemented:
 
 * [ ] Instead of edit item on click we implement on click it will get deleted.
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+
 ## Notes
 
 It was a great experience I have gained while building this app. There is lots of things that will I learned from this and Implemented many ideas that demonstrated in CodePath video.
